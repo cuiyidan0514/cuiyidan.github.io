@@ -53,11 +53,6 @@ interests:
 education:
   - area: Artificial Intelligence
     institution: ShangHaiJiaoTong University
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
 work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -103,4 +98,4 @@ awards:
 
 ## About Me
 
-    CuiyiDan is a student of ShangHaiJiaoTong University.
+    CuiYiDan is  an undergraduate student majoring in AI at Shanghai Jiao Tong University.
